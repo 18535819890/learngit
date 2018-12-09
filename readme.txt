@@ -8,3 +8,6 @@ Git has a mutable index called stage.
 Git tracks changes
 Git tracks changes of files.
 1111
+22222
+2222
+3333
